@@ -26,8 +26,8 @@ The primary goal of HollowMerch was to provide an engaging and easy-to-navigate 
 
 ## How to Access
 
-- **Live Demo**: Visit the live site [here]([supsaiyan.github.io/HollowMerch/](https://supsaiyan.github.io/HollowMerch/)).
-- **Source Code**: Explore the code and contribute on GitHub [here]([https://github.com/Supsa1yan/HollowMerch](https://github.com/Supsaiyan/HollowMerch)).
+- **Live Demo**: Visit the live site [here](https://supsaiyan.github.io/HollowMerch/).
+- **Source Code**: Explore the code and contribute on GitHub [here](https://github.com/Supsaiyan/HollowMerch).
 
 ## Learning Experience
 

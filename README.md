@@ -2,6 +2,8 @@
 
 HollowMerch is a stylish e-commerce website designed for fans of the game Hollow Knight. This project was developed as a part of a university course to apply and enhance my skills in web development. The website offers a variety of Hollow Knight-themed merchandise, including clothing, action figures, toys, vinyl records, and other collectibles.
 
+![HollowMerch Screenshot](assets/homepage-scrn.jpeg)
+
 ## Purpose
 
 The primary goal of HollowMerch was to provide an engaging and easy-to-navigate platform for Hollow Knight fans to explore and purchase their favorite game-related products. This project also served as a practical application of the web development technologies learned during my course.

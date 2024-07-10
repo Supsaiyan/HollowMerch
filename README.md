@@ -30,10 +30,6 @@ The primary goal of HollowMerch was to provide an engaging and easy-to-navigate 
 - **Live Demo**: Visit the live site [here](https://supsaiyan.github.io/HollowMerch/).
 - **Source Code**: Explore the code and contribute on GitHub [here](https://github.com/Supsaiyan/HollowMerch).
 
-## Learning Experience
-
-This project was developed as part of a university course in web development. It provided an excellent opportunity to apply theoretical knowledge in a practical setting and to work with real-world web development tools and techniques.
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out:

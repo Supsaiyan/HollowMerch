@@ -6,19 +6,18 @@ HollowMerch is a stylish e-commerce website designed for fans of the game Hollow
 
 ## Purpose
 
-The primary goal of HollowMerch was to provide an engaging and easy-to-navigate platform for Hollow Knight fans to explore and purchase their favorite game-related products. This project also served as a practical application of the web development technologies learned during my course.
+The primary goal of HollowMerch was to provide an engaging and easy-to-navigate platform for Hollow Knight fans to explore and purchase their favorite game-related products.
 
 ## Key Features
 
 - **Intuitive Navigation**: A user-friendly navigation bar with direct links to the main sections of the site, including Home, About, Login, and different product categories.
 - **Dynamic Content**: JavaScript-enhanced scrolling effects and interactive elements that provide a seamless browsing experience.
 - **Product Catalogs**: Dedicated pages for different product categories, such as Clothing, Figures, and Other Merchandise, allowing users to easily find and explore various items.
-- **User Authentication**: Secure registration and login forms for a personalized shopping experience.
+- **User Authentication**: Registration and login forms for a personalized shopping experience.
 
 ## Design Highlights
 
 - **Minimalistic and Thematic Style**: The website features a minimalistic design stylized to match the palette and aesthetic of the game Hollow Knight.
-- **Responsive Layout**: The design is optimized for both desktop and mobile devices, ensuring a consistent user experience across platforms.
 
 ## Technologies Used
 
